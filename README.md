@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - This is my first readme file
 - Doing my first change
-- CHnages didnt work in the first time
+- Changes didnt work in the first time
 
 <!---
 har5hakl/har5hakl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
